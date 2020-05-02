@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/edgeDetection/edgeDetectionTest.java=UTF-8
+encoding//src/hierarchicalClustering/AngleCompute.java=UTF-8
+encoding//src/hierarchicalClustering/PlaneFactorCompute1.java=UTF-8
+encoding//src/hierarchicalClustering/PlaneFactorCompute2.java=UTF-8
+encoding//src/hierarchicalClustering/RegionGrowSeedPointFixTest.java=UTF-8
+encoding//src/hierarchicalClustering/RegionGrowSeedPointMovesTest.java=UTF-8
+encoding//src/planeDetectionHadoop/T1Reducer.java=UTF-8
+encoding//src/sphereDetection/sphere_range.java=UTF-8
